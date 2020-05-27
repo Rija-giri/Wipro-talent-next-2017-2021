@@ -1,4 +1,4 @@
-//Write a program to print all numbers from 1 to 100 i.e. 1 2 3 4 5 6 7 . . . 98 99 100
+//program to print all numbers from 1 to 100 i.e. 1 2 3 4 5 6 7 . . . 98 99 100
 public class Main
 {
 	public static void main(String[] args) {
