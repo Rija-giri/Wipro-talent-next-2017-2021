@@ -1,4 +1,4 @@
-//Write a program to accept a number N and print whether the number is EVEN or ODD
+//program to accept a number N and print whether the number is EVEN or ODD
 import java.util.*;
 public class Main
 {
