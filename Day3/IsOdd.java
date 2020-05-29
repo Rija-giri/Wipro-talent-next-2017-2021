@@ -1,45 +1,18 @@
-	//Check whether the given number is odd or not
-
-
-
+//Check whether the given number is odd or not
 import java.util.*;
-
-
 public class IsOdd {
-	
 	public static void main(String[] args) {
-	    
 		System.out.println("Enter a number");   //input
-		
 		Scanner sc= new Scanner(System.in); 
-		
 		int n= sc.nextInt();
-		
 		System.out.println(even(n));
-	
 	}
-	
-	
-	
 	static int even(int n) {
-	    
-		int result;
-	
-		
-		
+	    	int result;
 		if(n%2!=0)
-			
-			
 			result=2;
-		
-		
 		else
-          	  	
-			
 			result=1;
-	    
-		return result;
-	
-	
+	    	return result;
 	}
 }
