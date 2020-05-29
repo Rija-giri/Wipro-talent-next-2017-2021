@@ -8,13 +8,13 @@ public class WelcomeMsg {
     
 	public static void main(String args[]) {
         
-		System.out.println("Enter your name ");     //Yuva
+		System.out.println("Enter your name ");     //Girija
         
 		Scanner sc=new Scanner(System.in);
         
 		String str=sc.nextLine();
         
-		System.out.println(args[0]+" "+str);        //Welcome Yuva
+		System.out.println(args[0]+" "+str);        //Girija Welcome
     
 	}
 
